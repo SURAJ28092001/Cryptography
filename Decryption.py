@@ -1,5 +1,5 @@
 from Encryption import l,st,lis1,lis2,v,lis3
-rub=input("Let's check that our algorithm is correct or not.")
+rub=input("Let's check that our algorithm is correct or not. Press enter to decrypt the message.")
 sec=0
 st1=""
 for i in st:
