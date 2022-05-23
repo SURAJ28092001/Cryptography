@@ -1,4 +1,3 @@
-#D.R. D Y Patil Institute of Engineering, Management, and Research, Pune-411044
 import random
 a=str(input("Enter the statement to be encrypted : "))
 l = len(a)
@@ -52,39 +51,3 @@ for i in a:
             st = st + chr(ch)
     sec = sec + 1
 print('The Encryted Statement is : ',st)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
